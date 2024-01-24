@@ -115,8 +115,8 @@ number_one = 34
 number_two = 43
 if number_one > number_two:
     print()
-three = 9
-if three > 0:
+three_number = 9
+if three_number > 0:
     print()
 
 # lowercase (слово в нижнем регистре)
